@@ -37,7 +37,7 @@ José Claudio Vianna Jr. – [@joseclaudiojr](https://www.linkedin.com/in/josecl
 
 ## License
 
-MIT © [Tasks Backend](https://github.com/joseclaudiojr/node-mailchimpintegration/blob/master/LICENSE)
+MIT © [node-mailchimpintegration](https://github.com/joseclaudiojr/node-mailchimpintegration/blob/master/LICENSE)
 
 <!-- Markdown link & img dfn's -->
 
